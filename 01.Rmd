@@ -1,24 +1,41 @@
-# My first cool idea {#slug-one}
+# College Fit {#slug-one}
 
 #### Keywords
 
-yaba, daba, do
+College, Graduation, Fit
 
-## A beginning.
+## Situtation
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+According to the National Center for Education Statistics approximately 3.6 mm students will graduate from High School in the 2017-2018 academic year, and traditionally 69% of these will go on to college in the Fall after they graduate. Each year these graduating students who go on to tertiary education are faced with tough choices about which college would be the best fit for them academically, socially, athletically etc.
 
-## A middle.
+It’s a big problem!
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+For these 2.5mm students it is reasonable to assume that most of them, at some point, with varying degrees of attention and efficacy, went through the process of trying to inform their choices about which institution they would like attend, and deciding on where they would ultimately apply.
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+Legions of professional advisers – school-based, commercial, and online – have created an industry trying to help applicants find the right fit with colleges – and while the focus of these advisors is also on ‘grooming’ the student for the process – a large part of what they preach and teach is about “fit”.
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+Students applying to college consistently face a couple of key questions: What is the right school for me?  How likely I am going to be happy there? 
 
-## An end.
+## Problem.
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+For some students, the consideration set of candidate colleges is highly constrained, given financial or geographic limitations, along with whatever academic thresholds need to be met.  For some, the primary question may simply be: am I able to get in there or will I be able to afford this option.  But assuming students have more than one option to choose from, that meet constraints like affordability, location, academic standard etc – they need to evaluate their choices. 
+
+This information gathering process is messy and does not work.
+
+For all students in this condition, unless the choice and process of applying was entirely random – they have to consider multiple factors about each institution, deriving information from a variety of sources, including the candidate schools themselves, counsellors, family, friends, web search etc.   Students then have to evaluate what they learn from this information gathering, and weigh it up against some personal criteria they hold that informs the sort of place where they believe or feel they would ‘fit.’   
+
+Little of the information considered is demonstrably linked or correlated with questions of ‘fit’.
+
+Further college is an “experience good” in the sense that potential students have very limited data about what the actual experience of their academic and social life will be, and can ultimately only “evaluate by purchase”.   Suggesting further need to ‘harden’ the information being used to inform these decisions.
+
+Substantial data about the level of transfers students make from their original college (~30%), and the growing concerns about the mental health of students, suggest that this process of choosing and matching is far from perfect.  And even if a solution could be found to improve the process on only ‘one-side’ of the equation, i.e. the students process of choice-making – this might have considerable positive outcomes and improve the social good.
+
+Today, there is no reliably ‘algorithmic’ way to support this process. 
+
+The question arises then as to whether there is an algorithmic model capable of leveraging, analyzing and interpreting multiple large sets of data, that could improve this decision-making process and lead to better educational experiences and outcomes for the future generations of students.
+
+## Proposed Solution.
+
+The proposal in development suggests that colleges could track, over time, various outcomes, or measures of success, at their schools – at an individual level – capturing as they go the pyscho-social profile of their students as incoming freshman.  Taken together with other aggregate data about the institution, this information could be used to construct a model that would help predict whether a certain student with a certain profile would be a “good fit” for each of the specific school. 
+
+Students, likewise, could enter their scores from key psychographic tests like MBTI etc, along with responses to some tailored questions, and get a better sense of how well they might ‘fit’, informed by the facts of who has or has not thrived at that institution.
