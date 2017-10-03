@@ -36,6 +36,32 @@ The question arises then as to whether there is an algorithmic model capable of 
 
 ## Proposed Solution
 
-The proposal in development suggests that colleges could track, over time, various outcomes, or measures of success, at their schools – at an individual level – capturing as they go the pyscho-social profile of their students as incoming freshman.  Taken together with other aggregate data about the institution, this information could be used to construct a model that would help predict whether a certain student with a certain profile would be a “good fit” for each of the specific school. 
+In the most simplistic form the service requires two broad sets of data, College-side and Prospective Student-side.  
 
+**COLLEGE SIDE:** The core components of what the college needs to capture and/or track, are: 
+> 1. Various outcomes, or measures of success, over time for individual students at their schools.  For example, the results of survey questions like "How happy are you at Alpha College", or "How satisfied are you with your choice to attend College U?" etc.  
+> 2. Psycho-social profile of their students as incoming freshman.  Taken together with other aggregate data about the institution, this information could be used to construct a model that would help predict whether a certain student with a certain profile would be a “good fit” for each of the specific school.
+
+In order to ensure the process appears 'bias-free' i.e., prospective students are confident the data is not being selectively chosen or manipulated, this survey and analysis would be carried out by an independent third party; indeed this third party might be "College Fit" itself - to ensure the maximum ability to generate robust comparable and explicable results.
+
+**PROSPECTIVE STUDENT SIDE**
 Students, likewise, could enter their scores from key psychographic tests like MBTI etc, along with responses to some tailored questions, and get a better sense of how well they might ‘fit’, informed by the facts of who has or has not thrived at that institution.
+
+### Methodologies
+Natural Language Processing
+
+### Product Vision
+Students in the process of evaluating and selecting colleges would have a web site, or mobile application, as the interface to "College Fit."  This tool would accomplish three principal tasks.
+
+#### 1. Gather Data 
+Enable the student to take a standardized psychometric test like MBTI or DISC, or work through a bank of individual selected psychometric questions.  In additon to fill in some profile questions - demographics, hobbies, interests etc.
+
+#### 2. Apply High Level Filters
+Students would be able to make 'category' type selections, e.g., Colleges only in the Northeast, or Colleges over a certain size; although students, at this stage may be encourage to use minimal 'filtering' so that they can let the algorithm do its work.  They may be surprised, for instance, that many students "just like them" thrived at Big Ten Schools, when the prospective student had told him or herself, they had no interest in such institutions.
+
+#### 3. Present Recommendations
+Present 5 - 10 recommendations, with some sort of justification or explanation e.g., "We've selected this school for you because people who had a similar strong interest in the outdoors, and considered themselves more 
+
+
+ADDITIONAL OPPORTUNITIES
+the core data collection Freshman, Existing College Experience, etc ... could be re-packaged and re-sold back to colleges for other commercial opportunities.
