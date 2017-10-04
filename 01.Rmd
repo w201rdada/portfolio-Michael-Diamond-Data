@@ -40,16 +40,18 @@ The question arises then as to whether there is an algorithmic model capable of 
 In the most simplistic form the service requires two broad sets of data, College-side and Prospective Student-side.  
 
 **COLLEGE SIDE:** The core components of what the college needs to capture and/or track, are: 
-> 1. Various outcomes, or measures of success, over time for individual students at their schools.  For example, the results of survey questions like "How happy are you at Alpha College", or "How satisfied are you with your choice to attend College U?" etc.  
-> 2. Psycho-social profile of their students as incoming freshman.  Taken together with other aggregate data about the institution, this information could be used to construct a model that would help predict whether a certain student with a certain profile would be a “good fit” for each of the specific school.
+> 1. Define various outcomes, or measures of success, and then track these over time for individual students at their schools.  For example, the results of survey questions like "How happy are you at Alpha College", or "How satisfied are you with your choice to attend College U?," or on a scale of 1-5 please rate your experience with" etc.  
+> 2. Capture a psycho-social profile of their students as incoming freshman, through a standardized tool like MBTI or DISC. 
+
+These two basic pieces of 'data' are what we need from each participating college.Taken together with other aggregate data about the institution, this information could be used to construct a model that would help predict whether a certain student with a certain profile would be a “good fit” for each of the specific school.  It gives us a model of what 'type' of people have or have not thrived at that institution.
 
 In order to ensure the process appears 'bias-free' i.e., prospective students are confident the data is not being selectively chosen or manipulated, this survey and analysis would be carried out by an independent third party; indeed this third party might be "College Fit" itself - to ensure the maximum ability to generate robust comparable and explicable results.
 
 **PROSPECTIVE STUDENT SIDE**
-Students, likewise, could enter their scores from key psychographic tests like MBTI etc, along with responses to some tailored questions, and get a better sense of how well they might ‘fit’, informed by the facts of who has or has not thrived at that institution.
+Prospective students, likewise, would enter their scores from key psychographic tests like MBTI etc, along with responses to some tailored questions about personality, perhaps drawin from the Big 5, or on more personal choices.
 
-### Methodologies
-Natural Language Processing
+### Additional ways to train this model
+The project will attempt to also include in more openly available factors, like Ratemyprofessors.com - which can help with broad definitions of an institution or perhaps an individual academic subject.  For sites like these, we will need to test several natural language processing alogrithms.  Further, we are interested in identifying what data  on individual students already at the prospect college might be gleaned from their Social Media "Graph", and may provide further color on their likes and dislikes at their School, and how that's linked to their 'personality'.
 
 ### Product Vision
 Students in the process of evaluating and selecting colleges would have a web site, or mobile application, as the interface to "College Fit."  This tool would accomplish three principal tasks.
