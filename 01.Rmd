@@ -48,12 +48,16 @@ These two basic pieces of 'data' are what we need from each participating colleg
 In order to ensure the process appears 'bias-free' i.e., prospective students are confident the data is not being selectively chosen or manipulated, this survey and analysis would be carried out by an independent third party; indeed this third party might be "College Fit" itself - to ensure the maximum ability to generate robust comparable and explicable results.
 
 **PROSPECTIVE STUDENT SIDE**
-Prospective students, likewise, would enter their scores from key psychographic tests like MBTI etc, along with responses to some tailored questions about personality, perhaps drawin from the Big 5, or on more personal choices.
+The key data we are trying to establish from prospective students, are
+> 1. Scores from key psychographic tests like MBTI etc, along with responses to some tailored questions about personality, perhaps drawin from the Big 5 Inventory of Personality, and some more descriptive factors about likes and disklikes.
+> 2. More 'categorical' data about their up-front or 'going-in' assumptions about areas of definition like "Big" School versus "Small" School," rural versus urban, etc.
 
 ### Additional ways to train this model
-The project will attempt to also include in more openly available factors, like Ratemyprofessors.com - which can help with broad definitions of an institution or perhaps an individual academic subject.  For sites like these, we will need to test several natural language processing alogrithms.  Further, we are interested in identifying what data  on individual students already at the prospect college might be gleaned from their Social Media "Graph", and may provide further color on their likes and dislikes at their School, and how that's linked to their 'personality'.
+> The project will attempt to also include in additional available factorS - that purport to evaluate the experience of students. There are a number of more informal websites like Ratemyprofessors.com - which may help with broad categorization of an institution or perhaps an individual academic discipline.  For sites like these, we will need to test several natural language processing alogrithms.  
+> Further, we are interested in identifying what data  on individual students already at the prospect college might be gleaned from their Social Media "Graph", and may provide further color on their likes and dislikes at their School, and how that's linked to their 'personality.'
+> In addition we would look to explore what synergies might exist with the National Survey of Student Engagement, which measures many factors of student experience including questions like: "If you could start over again, would you go to the same institution you are now attending."  Strong summary metrics like these could be very helpful if they are generally considered reliable and/or an accurate proxy for total experience at at College.
 
-### Product Vision
+## Product Vision
 Students in the process of evaluating and selecting colleges would have a web site, or mobile application, as the interface to "College Fit."  This tool would accomplish three principal tasks.
 
 #### 1. Gather Data 
@@ -63,8 +67,7 @@ Enable the student to take a standardized psychometric test like MBTI or DISC, o
 Students would be able to make 'category' type selections, e.g., Colleges only in the Northeast, or Colleges over a certain size; although students, at this stage may be encourage to use minimal 'filtering' so that they can let the algorithm do its work.  They may be surprised, for instance, that many students "just like them" thrived at Big Ten Schools, when the prospective student had told him or herself, they had no interest in such institutions.
 
 #### 3. Present Recommendations
-Present 5 - 10 recommendations, with some sort of justification or explanation e.g., "We've selected this school for you because people who had a similar strong interest in the outdoors, and considered themselves more 
+Present 5 - 10 recommendations, with some sort of justification or explanation e.g., "We've selected this school for you because people who had a similar strong interest in the outdoors, and considered themselves more extrovert, agreeable, and emotionallly stable.
 
-
-ADDITIONAL OPPORTUNITIES
-the core data collection Freshman, Existing College Experience, etc ... could be re-packaged and re-sold back to colleges for other commercial opportunities.
+## Additional Business Opportunities
+With the core data collection from current students, evealuating their experience at college etc, much of the insights gleaned could be re-packaged and re-sold back to colleges for other commercial opportunities - for example evaluating what levels of services they need to keep students motivated and engaged; or data that enables colleges to make better choices about applicants etc.
