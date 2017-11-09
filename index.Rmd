@@ -27,13 +27,13 @@ Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland 
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract for College Fit: the eHarmony for College Applications
+### Abstract for "College Fit: the eHarmony for College Applications"
 
 Each year 2.5 million high school students will enter college and have to go through a process of evaluating, choosing, and applying to several institutions.  The outcome of this process will determine, in part, how happy, fulfilled and successful they are over the next four years.   This process is predicated on trying to establish the best “fit” between the student and the college they will attend.  However, many factors ultimately go in to establishing this fit, and the prospective student does not have a strong analytical or algorithmic way of making the match.  This project proposes using standard psychometric tests along with other questionnaire-based inputs to establish a link between individual colleges and the “types” of students who thrive and enjoy themselves at these institutions.  The high school student applying to a college can take similar tests and fill in similar profiles to establish whether their target schools are a fit and/or to identify other schools which might be a good match for the student's talents, interests, personality and goals.
 
-### Abstract of my second cool idea
+### Abstract for "Video Choice"
 
-Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
+Providers of video services to the home and to networked devices, constantly face the challenge of capturing the attention of consumers and directing them to meaningful and relevant video content.  At the same time, consumers in their homes, individually and/or in family groups are seeking out video content across multiple platforms that they can watch and enjoy together.  With a plethora of choices available to the consumer, this project proposes an algorithmic and data-driven approach to matching available content with consumer interests.  The project will help to reduce the time it takes to search for appropriate content, and reduce the complexity of navigating to and/or discovering the best choice.
   
 ### Abstract of my third cool idea
 
