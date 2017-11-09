@@ -1,7 +1,7 @@
 ---
 title: "W201 Portfolio"
-author: "Oski Bear"
-date: "MIDS Summer 2017"
+author: "Michael Diamond"
+date: "MIDS Fall 2017"
 site: bookdown::bookdown_site
 documentclass: book
 ---
@@ -27,9 +27,9 @@ Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland 
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract of my first cool idea
+### Abstract for College Fit: the eHarmony for College Applications
 
-Pop-up occupy labore, pug tofu nisi franzen YOLO tilde tumblr deep v nulla  aliqua.  Sapiente stumptown et lo-fi art party.  Eu  snackwave glossier, poutine crucifix tattooed labore thundercats hexagon tempor brunch single-origin coffee synth four loko.  Velit  beard ex etsy migas, tempor hashtag.  Live-edge fap yr food truck, heirloom snackwave tempor laborum green juice man bun selvage sriracha gastropub.  Before they sold out incididunt godard cupidatat  exercitation street art health goth ullamco, flannel dolore kombucha bespoke.  Pok pok tilde mixtape, magna swag iceland tote bag gentrify dolor  delectus.
+Each year 2.5 million high school students will enter college and have to go through a process of evaluating, choosing, and applying to several institutions.  The outcome of this process will determine, in part, how happy, fulfilled and successful they are over the next four years.   This process is predicated on trying to establish the best “fit” between the student and the college they will attend.  However, many factors ultimately go in to establishing this fit, and the prospective student does not have a strong analytical or algorithmic way of making the match.  This project proposes using standard psychometric tests along with other questionnaire-based inputs to establish a link between individual colleges and the “types” of students who thrive and enjoy themselves at these institutions.  The high school student applying to a college can take similar tests and fill in similar profiles to establish whether their target schools are a fit and/or to identify other schools which might be a good match for the student's talents, interests, personality and goals.
 
 ### Abstract of my second cool idea
 
