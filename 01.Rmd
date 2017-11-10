@@ -7,7 +7,7 @@ College, Graduation, Fit, Psychometric
 
 ## Situation
 
-According to the National Center for Education Statistics, approximately 3.6 million students will graduate from high school in the 2017-2018 academic year. Traditionally, 69% (about 2.5 million) of these will go on to college in the fall after they graduate. All of these 2.5 million students must decide where they want to apply and where, ultimately, they want to attend - with over 4000 colleges and universities in the US alone, that's a big challenge. (https://www.statista.com/topics/829/college-and-university/). 
+According to the National Center for Education Statistics, approximately 3.6 million students will graduate from high school in the 2017-2018 academic year. Traditionally, 69% (about 2.5 million) of these will go on to college in the fall after they graduate. All of these 2.5 million students must decide where they want to apply and where, ultimately, they want to attend - with over 4000 colleges and universities in the US alone, that's a big challenge (1). 
 
 Graduating students face tough choices about which college would be the best fit for them academically, socially, athletically, etc. Legions of professional advisers – school-based, commercial, and online – have created an industry trying to help applicants find the right fit with colleges.
 
@@ -61,3 +61,7 @@ Present 5 - 10 recommendations with some sort of justification or explanation, e
 
 ## Additional Business Opportunities
 With the core data collection from current students evaluating their experiences, much of the insights gleaned could be re-packaged and sold back to colleges for other commercial opportunities. For example, to help universities evaluate what levels of services they need to keep students motivated and engaged.
+
+
+#### References
+(1) https://www.statista.com/topics/829/college-and-university/
