@@ -6,13 +6,13 @@ College, Graduation, Fit, Psychometric
 
 ## Situation
 
-According to the National Center for Education Statistics, approximately 3.6 million students will graduate from high school in the 2017-2018 academic year. Traditionally, 69% (about 2.5 million) of these will go on to college in the fall after they graduate. All of these 2.5 million students must decide where they want to apply and where, ultimately, they want to attend - with over 4000 colleges and universities in the US alone, that's a big challenge (1). 
+According to the National Center for Education Statistics, approximately 3.6 million students will graduate from high school in the 2017-2018 academic year. Traditionally, 69% (about 2.5 million) of these will go on to college in the fall after they graduate. All of these 2.5 million students must decide where they want to apply and where, ultimately, they want to attend - with over 4000 colleges and universities in the US alone, that's a big challenge. ^[https://www.statista.com/topics/829/college-and-university/] 
 
 Graduating students face tough choices about which college would be the best fit for them academically, socially, athletically, etc. Legions of professional advisers – school-based, commercial, and online – have created an industry trying to help applicants find the right fit with colleges.
 
 For some students, the consideration set of candidate colleges is highly constrained because of financial or geographic limitations, along with whatever academic thresholds need to be met. For some students, the primary question may simply be: "Am I able to get in there?" or "Will I be able to afford this option?" Still, assuming students have more than one option to choose from, they need to evaluate their choices.
 
-#### This information gathering process is messy and does not work.
+#### This information gathering process is messy and does not work. {-}
 
 Students in this condition must consider multiple factors about each institution, deriving information from a variety of sources including the candidate schools themselves, counsellors, family, friends, web search, etc. Students then have to evaluate what they learn from this information and weigh it against personal criteria about where they believe they would ‘fit.’   
 
@@ -20,7 +20,7 @@ Further, college is an “experience good” in the sense that potential student
 
 Substantial data about the student transfer rate (about 30% of students transfer) and the growing concerns about the mental health of students suggest that this process of choosing is far from perfect.
 
-#### An algorithmic solution could better use the data available to support students in this process. 
+#### An algorithmic solution could better use the data available to support students in this process. {-} 
 
 An algorithmic model capable of leveraging, analyzing and interpreting multiple large sets of data could improve this decision-making process and lead to better educational experiences and outcomes for future generations of students.
 
@@ -47,25 +47,27 @@ The key data we are trying to establish from prospective students are:
 1. Scores from key psychographic tests like MBTI along with responses to tailored questions about personality, perhaps drawing from the Big 5 Inventory of Personality, and some more descriptive factors about likes and disklikes.
 2. More categorical data about their up-front assumptions about areas of definition like "Big School" versus "Small School," rural versus urban, etc.
 
-### Additional ways to train this model  
+### Additional ways to train this model {-}
 
-* The project will also include in additional available factors believed to affect the experience of students. There are a number of more informal websites like Ratemyprofessors.com which may help with broad categorization of an institution or an individual academic discipline.  For sites like these, we will need to test several natural language processing algorithms.  
-* Further, we are interested in identifying what data on individual students already at the prospective college might be gleaned from their Social Media Graph and may provide further color on their likes and dislikes at their school and how that's linked to their personality.
-* In addition, College Fit would explore what synergies exist with the National Survey of Student Engagement, which measures many factors of student experience including questions like: "If you could start over again, would you go to the same institution you are now attending?" Strong summary metrics like these could be very helpful if they are found to be an accurate proxy for total experience at College.
+The project will also include in additional available factors believed to affect the experience of students. There are a number of more informal websites like Ratemyprofessors.com which may help with broad categorization of an institution or an individual academic discipline.  For sites like these, we will need to test several natural language processing algorithms.  
+
+Further, we are interested in identifying what data on individual students already at the prospective college might be gleaned from their Social Media Graph and may provide further color on their likes and dislikes at their school and how that's linked to their personality.
+
+In addition, College Fit would explore what synergies exist with the National Survey of Student Engagement, which measures many factors of student experience including questions like: "If you could start over again, would you go to the same institution you are now attending?" Strong summary metrics like these could be very helpful if they are found to be an accurate proxy for total experience at College.
 
 ## Product Vision  
 
 Students in the process of evaluating and selecting colleges would have a website or mobile application as the interface to College Fit.  This tool would accomplish three principal tasks.
 
-#### 1. Gather Data  
+#### 1. Gather Data {-}
 
 Enable the student to take a standardized psychometric test like MBTI or answer a bank of individual selected psychometric questions. In additon, students will fill in some profile questions - demographics, hobbies, interests, etc.
 
-#### 2. Apply High Level Filters  
+#### 2. Apply High Level Filters {-}
 
 Students would be able to make 'category' type selections, e.g., colleges only in the Northeast or colleges over a certain size. However, students at this stage may be encouraged to use minimal filtering so that the algorithm can do its work. A prospective student may be surprised that many students "just like them" thrived at Big Ten Schools, for instance, when they had told themselves they had no interest in such institutions.
 
-#### 3. Present Recommendations  
+#### 3. Present Recommendations {-}
 
 Present 5 - 10 recommendations with some sort of justification or explanation, e.g., "We've selected this school for you because people who had a similar strong interest in the outdoors and considered themselves more extroverted, agreeable, and emotionally stable succeeded there."
 
@@ -73,6 +75,3 @@ Present 5 - 10 recommendations with some sort of justification or explanation, e
 
 With the core data collection from current students evaluating their experiences, much of the insights gleaned could be re-packaged and sold back to colleges for other commercial opportunities. For example, to help universities evaluate what levels of services they need to keep students motivated and engaged.
 
-
-#### References
-(1) https://www.statista.com/topics/829/college-and-university/
