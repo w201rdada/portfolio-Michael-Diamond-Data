@@ -1,6 +1,6 @@
 # Video Choice
 
-#### Keywords
+#### Keywords {-}
 
 Entertainment, Video, Recommendation
 

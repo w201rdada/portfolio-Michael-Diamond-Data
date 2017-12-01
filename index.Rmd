@@ -1,6 +1,10 @@
 ---
 title: "W201 Portfolio"
+<<<<<<< HEAD
 author: "Michael Diamond"
+=======
+author: "Oski Bear"
+>>>>>>> b57086401a342eb5030cf12ad5969369b50d95be
 date: "MIDS Fall 2017"
 site: bookdown::bookdown_site
 documentclass: book
@@ -12,7 +16,7 @@ library(magrittr)
 ```
 
 
-# Welcome!
+# Welcome! {-}
 
 <!-- You can include images saved within your repo... -->
 ```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
@@ -27,19 +31,27 @@ Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland 
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
+<<<<<<< HEAD
 ### Abstract for "College Fit: the eHarmony for College Applications"
+=======
+### Abstract of my first cool idea {-}
+>>>>>>> b57086401a342eb5030cf12ad5969369b50d95be
 
 Each year 2.5 million high school students will enter college and have to go through a process of evaluating, choosing, and applying to several institutions.  The outcome of this process will determine, in part, how happy, fulfilled and successful they are over the next four years.   This process is predicated on trying to establish the best “fit” between the student and the college they will attend.  However, many factors ultimately go in to establishing this fit, and the prospective student does not have a strong analytical or algorithmic way of making the match.  This project proposes using standard psychometric tests along with other questionnaire-based inputs to establish a link between individual colleges and the “types” of students who thrive and enjoy themselves at these institutions.  The high school student applying to a college can take similar tests and fill in similar profiles to establish whether their target schools are a fit and/or to identify other schools which might be a good match for the student's talents, interests, personality and goals.
 
+<<<<<<< HEAD
 ### Abstract for "Video Choice"
+=======
+### Abstract of my second cool idea {-}
+>>>>>>> b57086401a342eb5030cf12ad5969369b50d95be
 
 Providers of video services to the home and to networked devices, constantly face the challenge of capturing the attention of consumers and directing them to meaningful and relevant video content.  At the same time, consumers in their homes, individually and/or in family groups are seeking out video content across multiple platforms that they can watch and enjoy together.  With a plethora of choices available to the consumer, this project proposes an algorithmic and data-driven approach to matching available content with consumer interests.  The project will help to reduce the time it takes to search for appropriate content, and reduce the complexity of navigating to and/or discovering the best choice.
   
-### Abstract of my third cool idea
+### Abstract of my third cool idea {-}
 
 Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
 
-## About the author
+## About the author {-}
 
 Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
 
