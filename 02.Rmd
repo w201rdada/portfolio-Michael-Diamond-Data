@@ -6,37 +6,37 @@ Entertainment, Video, Recommendation
 
 ## Context.
 
-Providers of video services to the home and to networked devices, like cable companies, wireless phone operators, over-the-top streaming services etc., face the challenge of constantly (re-) capturing the attention of consumers and directing them towards video entertainment that is meaningful, relevant, and desirable by their “consumers” at the moment they wish to watch something.
+Providers of video services to the home and to networked devices, like cable companies, wireless phone operators, and over-the-top streaming services, must constantly (re-) capture the attention of consumers to ensure continued usage of their product. They have stiff competition; consumers face an overwhelming number of choices with respect to their video entertainment options in the home and on their smart devices. Providers are increasingly being asked to help direct users to video entertainment that is meaningful, relevant, and desirable at the moment users wish to watch something.
+That becomes even more challenging when families want to watch something together - recommended content for any one individual may not appeal to the whole group. 
 
-Similarly, families trying to watch together, or individuals alone, face an overwhelming choice with respect to their video entertainment options in the home, and on their ‘smart’ devices.
+Using data science, providers can reduce the search time and complexity in finding a movie or TV show that a family would want to watch together. This keeps consumers happy and ensures that families continue to be engaged in the video products.
 
-## Question / Problem to Solve
-How could a company reduce the search time and complexity in finding a movie, or TV Show, that more than one member of the family could agree on, and be interested in watching together?  How can they ensure that the result of search, is action and engagement?
+## Key Units and Metrics
+Solving this problem requires broadband companies to gather consumer data more efficiently and use a robust algorithmic approach to predict recommend content at the group level rather than the individual level. 
 
-## Key Units and Metrics to be evaluated.
-A solution to this problem requires both a radical increase in the efficiency, or economy, by which information is gathered and a robust algorithmic approach to resolving the plethora of trade-offs that are required in the decision making process.  
+The relevant units of study include: 
+- "Video Assets" (individual movies or TV episodes) actively searched for and/or brought in to the consideration set for a family to review and choose
+- "Individuals" (unique members of the family) and their specific choices, preference, prior viewing history, etc.
+- "Platforms" (the software services and connected hardware) through which an individual can 'consume' a Video Asset.
 
-In order to understand this question, one needs to identify the key units of study, which would include: 
-- "Video Assets" (ie individual movies, TV episodes, etc) actively searched for and/or brought in to the consideration set for a family to review and choose.
-- "Individuals" (ie unique members of the family) and their specific choices, preference, prior viewing history etc.
-- "Platforms" (ie the software services and/or connected hardware) through which an Individual can 'consume' a Video Asset.
+The three core elements of the video are:
+- 1) Non-mutable attributes that are **'intrinsic'** to the property (e.g., title, genre, length, cast and crew, release date)
+- 2) Attributes that are **'extrinsic'**, i.e. attributed to the property by the platform  or intermediary. Examples include price, format, platform availability, contains advertising/no-advertising, 'rental' period, or number of views.;
+- 3) Attributes that are **"evaluative"**, such as consumer ratings, professional critical ratings, MPAA ratings, box-office performance if relevant, or awards and honors.
 
-With respect to the Video Asset, one would need to categorize its elements by three core elements: 1) Attributes that are **'intrinsic'** to the property, in a sense non-mutable e.g., title, genre, length, cast and crew, release date etc ; 2) attributes that are **'extrinsic'** i.e., attributed to the property by the platform  or intermediary, for example price, format, platform availability, contains advertising/no-advertising, 'rental' period, / number of views etc.; and 3) attributes that are **"evaluative"** or judgemental such as consumer ratings, professional critical ratings, MPAA ratings, box-office performance if relevant, awards and honors such as Emmys, Oscars etc. 
-
-Individuals would need to provide information on their preferences, previousl viewing history, actors and directors they like, subject matter and genre etc.   For an analysis and assessment of the platforms, you would need a fairly extensive "product catalog" with details on the various assets in terms of format, pricing, useage rules etc. 
+Individuals would need to provide information on their preferences, previous viewing history, actors and directors they like, subject matter and genre, etc.  The platform would also need an extensive product catalog with details on the various assets in terms of format, pricing, usage rules, etc.
 
 ## Research Goal
 
-The initial phase of the research and analysis is to understand the decision making process, focusing specifically on what information is needed by the individuals involved, on which they tend to make a decision.  This would be what is overtly observed or revealed, but an element of trade-off analysis might also reveal the implict choices consumers are making.  Access to their actual viewing history and "ratings" applied to each asset would deepen the potential statiscal correlations. The goal of this stage is to determine what variables tend to be most discriminating in that they explain more of the variance in consumer appeal.
+The initial phase of the research is to understand the decision-making process of the family, focusing specifically on what information is needed by the individuals involved.
+We are primarily interested in their final decision, but studying the trade-off analysis might also reveal the implicit choices consumers are making.  Access to their actual viewing history and the ratings they applied to each asset would deepen these findings. The goal of this stage is to determine what variables best predict consumer appeal.
 
 Want to understand both how much the intrinsic factors drive choice versus the extrinsic and evaluative elements, and the interplay between these in making tradeoff decisions about the movie/TV show, that they could agree on.
 
-In addition we want to understand how "search costs" e.g., how difficult is it to identify where a certain movie can be consumed (ie Cable On Demand, AppleTV, Netflix, Hulu, etc) factor in to the ultimate resolution of whether a specific show is watched or not, or indeed if anything is ultimately chosen.
-
-Additional insights that could be collected to inform the decision-making process include: Search and Discovery, e.g., what can we learn from Google Searches, or IMDB ; Artifical Intelligence e.g., What can we learn from Alexa, or existing recommendations.
+In addition we want to understand how "search costs", e.g., how difficult is it to identify where a certain movie can be consumed (Cable On Demand, AppleTV, Netflix, Hulu) factor in to the ultimate resolution of whether a specific show is watched or not, or indeed if anything is ultimately chosen.
 
 ## An end.
 
-From an ease of use perspective, the application (or service) could be customized up front, with any given preferences for parametes like platform (e.g., we prefer to watch on Netflix than Cable On Demand), or time available (e.g., we only have 1.5 hours).  These would be used to constrain, or filter, the algorithmic recommendations and ensure that the ultimate results rendered, more closely correlate with expectations, and are instantly "actionable".
+From an ease of use perspective, the application (or service) could be customized up front, with any given preferences for parameters like platform (e.g., we prefer to watch on Netflix than Cable On Demand), or time available (e.g., we only have 1.5 hours).  These would be used to filter the recommendations and ensure that the results more closely correlate with expectations and are instantly actionable.
 
-Ultimately trying to measure how satisfied the individuals in the watching group are with the choices recommended, or movies/TV shows chosen.  Ultimately the results of this research would be an implementable application that would provide recommendations on compatible and appropriate video assets.  
+Ultimately trying to measure how satisfied the individuals in the watching group are with the choices recommended, or movies/TV shows chosen will be challenging.  Ultimately this solution provide recommendations on compatible and appropriate video assets to families, not just to individuals.  
